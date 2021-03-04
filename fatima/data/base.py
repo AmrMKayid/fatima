@@ -1,6 +1,6 @@
 import os
-from typing import Callable
 from types import SimpleNamespace
+from typing import Callable
 
 import numpy as np
 import torch

@@ -1,7 +1,8 @@
+import json
 import os
 import time
+
 import torch
-import json
 from loguru import logger
 
 from fatima.config.base import Config
